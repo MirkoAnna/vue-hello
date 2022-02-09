@@ -1,4 +1,4 @@
-const root = new Vue (
+new Vue (
     {
         el: '#root',
         data: {
