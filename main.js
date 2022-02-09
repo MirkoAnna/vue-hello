@@ -2,7 +2,8 @@ const root = new Vue (
     {
         el: '#root',
         data: {
-            testo: 'Hello world'
+            testo: 'Evan You',
+            immagine: 'img/Evan You.jpg'
         }
     }
 )
